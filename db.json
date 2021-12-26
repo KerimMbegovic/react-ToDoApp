@@ -1,10 +1,10 @@
 {
   "tasks": [
     {
-      "text": "test",
-      "day": "test",
+      "text": "Frist task",
+      "day": "Friday, 12pm",
       "reminder": true,
-      "id": 7
+      "id": 1
     }
   ]
 }
